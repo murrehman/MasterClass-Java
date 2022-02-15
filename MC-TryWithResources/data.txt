@@ -1,0 +1,4 @@
+1,Ok ma b waiting for you
+2,I wont wait for you
+3,Maybe I wait
+4,Maybe I dont
